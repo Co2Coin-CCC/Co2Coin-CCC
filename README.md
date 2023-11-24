@@ -1,9 +1,7 @@
 # Welcome to Co2Coin !
 ![Welcome to Co2Coin !](https://raw.githubusercontent.com/Co2Coin-CCC/Co2Coin-CCC/main/CO2_Logo%20%2B%20Schriftzug.jpg)
 
-The Co2Coin is a climate-positive cryptocurrency that sets innovative standards by depositing CO2 certificates.
-
-In the fight against climate change, technology and environmental projects go hand in hand.
+The Co2Coin is a climate-positive cryptocurrency that sets innovative standards by depositing CO2 certificates. In the fight against climate change, technology and environmental projects go hand in hand.
 
 
 
